@@ -1,7 +1,7 @@
 # Engineering Design VI
 **This is the bold text**
 *This is the italicized text*
->  Practice blockquote
+>  Practicing blockquote
 ## Ordered List
 1. First item
 2. Second item
