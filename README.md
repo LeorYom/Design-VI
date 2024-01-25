@@ -11,7 +11,7 @@
 - First item
 - Second item
 - Third item
-## Code 
+## Java Code 
 `	import java.util.Scanner;`
 
 `public class Year {`
@@ -113,7 +113,7 @@
 `}`
 
 ---
-## Link
+## Link 
 [ServantsOfRuin](https://www.servantsofruin.com)
 
 ## Image
