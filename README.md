@@ -111,7 +111,7 @@
 
 `}`
 ## Link
-[Link]([servantsofruin](https://www.servantsofruin.com))
+[ServantsOfRuin](https://www.servantsofruin.com)
 
 ## Image
 ![StevensLogo](https://github.com/LeorYom/README.md/assets/117100347/f9ae0bac-c21e-44c4-858b-f6f695d96e76)
