@@ -1,6 +1,7 @@
 # Engineering Design VI
-**This is the bold text**
-*This is the italicized text*
+**Welcome**
+
+*By Leor Yomtobian*
 >  Practicing blockquote
 ## Ordered List
 1. First item
