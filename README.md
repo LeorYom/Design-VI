@@ -117,7 +117,8 @@
 [ServantsOfRuin](https://www.servantsofruin.com)
 
 ## Image
-![StevensLogo](https://github.com/LeorYom/README.md/assets/117100347/f9ae0bac-c21e-44c4-858b-f6f695d96e76)
+![StevensLogo](https://github.com/LeorYom/Design-VI/assets/117100347/f84da33b-23ad-4f8b-9ea4-5bbbe9bed1bc)
+
 
 
 
