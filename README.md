@@ -2,15 +2,15 @@
 **Welcome**
 
 *By Leor Yomtobian*
->  Practicing blockquote
-## Ordered List
-1. First item
-2. Second item
-3. Third item
-## Unordered List
-- First item
-- Second item
-- Third item
+>  Always turn a negative situation into a positive situation
+## Favorite Foods
+1. Pasta
+2. Steak
+3. Pizza
+## Things I like to do
+- Play Sports
+- Meet New People
+- Play Piano
 ## Java Code 
 `	import java.util.Scanner;`
 
