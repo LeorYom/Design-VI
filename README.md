@@ -8,9 +8,9 @@
 2. Steak
 3. Pizza
 ## Things I like to do
-- Play Sports
-- Meet New People
-- Play Piano
+- Play sports
+- Meet new people
+- Play piano
 ## Java code 
 `	import java.util.Scanner;`
 
