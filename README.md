@@ -2,8 +2,8 @@
 **Welcome**
 
 *By Leor Yomtobian*
->  Always turn a negative situation into a positive situation
-## Favorite Foods
+>  ```Always turn a negative situation into a positive situation```
+## Favorite foods
 1. Pasta
 2. Steak
 3. Pizza
@@ -11,7 +11,7 @@
 - Play Sports
 - Meet New People
 - Play Piano
-## Java Code 
+## Java code 
 `	import java.util.Scanner;`
 
 `public class Year {`
