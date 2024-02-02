@@ -12,105 +12,105 @@
 - Meet new people
 - Play piano
 ## Java code 
-`	import java.util.Scanner;`
+```	import java.util.Scanner;
 
-`public class Year {`
+public class Year {
 
-`/** Calls isLeapYear to print correct statement.`
+/** Calls isLeapYear to print correct statement.
 
-`     *  @param  year to be analyzed`
+     *  @param  year to be analyzed
 
-`     */`
+     */
 
-`    private static void checkLeapYear(int year) {`
+    private static void checkLeapYear(int year) {
 
-`        if (isLeapYear(year)) {`
+        if (isLeapYear(year)) {
 
-`            System.out.printf("%d is a leap year.\n", year);`
+            System.out.printf("%d is a leap year.\n", year);
 
-`        } else {`
+        } else {
 
-`            System.out.printf("%d is not a leap year.\n", year);`
+            System.out.printf("%d is not a leap year.\n", year);
 
-`        }`
+        }
 
-`    }`
+    }
 
-`    /** Return true if YEAR is a leap year.  */`
+    /** Return true if YEAR is a leap year.  */
 
-`    static boolean isLeapYear(int year) {`
+    static boolean isLeapYear(int year) {
 
-`        // return (year % 400 == 0) || (year % 4 == 0) && (year % 100 == 0);`
+        // return (year % 400 == 0) || (year % 4 == 0) && (year % 100 == 0);
 
-`        if (year % 4 == 0) {`
+        if (year % 4 == 0) {
 
-`            if (year % 100 != 0){`
+            if (year % 100 != 0){
 
-`                return true;`
+                return true;
 
-`        }`
+        }
 
-`            return true;`
+            return true;
 
-`            }`
+            }
 
-`        if (year % 400 == 0){`
+        if (year % 400 == 0){
 
-`            return true;`
+            return true;
 
-`        }`
+        }
 
-`        else {`
+       else {
 
-`            return false;`
+            return false;
 
-`        }`
+        }
 
-`    }`
+    }
 
-` /** Must be provided an integer as a command line argument ARGS. */`
+ /** Must be provided an integer as a command line argument ARGS. */
 
-`    public static void main(String[] args) {`
+    public static void main(String[] args) {
 
-`        if (args.length < 1) {`
+        if (args.length < 1) {
 
-`            System.out.println("Please enter command line arguments.");`
+            System.out.println("Please enter command line arguments.");
 
-`            System.out.println("e.g. java Year 2000");`
+            System.out.println("e.g. java Year 2000");
 
-`            Scanner reader = new Scanner(System.in);  // Reading from System.in`
+            Scanner reader = new Scanner(System.in);  // Reading from System.in
 
-`            System.out.println("Enter a number: ");`
+            System.out.println("Enter a number: ");
 
-`            int n = reader.nextInt(); // Scans the next token of the input as an int.`
+            int n = reader.nextInt(); // Scans the next token of the input as an int.
 
-`//once finished`
+//once finished
 
-`            reader.close();`
+            reader.close();
 
-`            checkLeapYear(n);`
+            checkLeapYear(n);
 
-`        }`
+        }
 
-`        for (int i = 0; i < args.length; i++) {`
+        for (int i = 0; i < args.length; i++) {
 
-`            try {`
+            try {
 
-`                int year = Integer.parseInt(args[i]);`
+                int year = Integer.parseInt(args[i]);
 
-`                checkLeapYear(year);`
+                checkLeapYear(year);
 
-`            } catch (NumberFormatException e) {`
+            } catch (NumberFormatException e) {
 
-`                System.out.printf("%s is not a valid number.\n", args[i]);`
+                System.out.printf("%s is not a valid number.\n", args[i]);
 
-`            }`
+            }
 
-`        }`
+        }
 
-`    }`
+    }
 
-`}`
+}```
 
 ---
 ## Link 
