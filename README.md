@@ -12,7 +12,8 @@
 - Meet new people
 - Play piano
 ## Java code 
-```	import java.util.Scanner;
+```
+ import java.util.Scanner;
 
 public class Year {
 
@@ -110,7 +111,10 @@ public class Year {
 
     }
 
-}```
+}
+```
+
+
 
 ---
 ## Link 
