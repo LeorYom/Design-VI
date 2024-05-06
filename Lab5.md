@@ -1,4 +1,4 @@
-# Lab 5
+# Lab 5 
 ---
 ## Terminal 1
 <img width="568" alt="Screen Shot 2024-03-04 at 2 29 31 PM" src="https://github.com/LeorYom/Design-VI/assets/117100347/990f67be-8bc7-43b4-974a-f86f84994132">
