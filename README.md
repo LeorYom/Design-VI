@@ -3,10 +3,6 @@
 
 *By Leor Yomtobian*
 >  ```Always turn a negative situation into a positive situation```
-## Favorite foods
-1. Pasta
-2. Steak
-3. Pizza
 ## Things I like to do
 - Play sports
 - Meet new people
